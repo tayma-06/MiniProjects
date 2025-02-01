@@ -53,6 +53,3 @@ This is a simple console-based Tic-Tac-Toe game written in C++. The game offers 
 ## Author
 **Khadiza Sultana**
 
-## License
-This project is open-source and free to use for educational purposes.
-
