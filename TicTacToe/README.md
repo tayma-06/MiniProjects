@@ -30,25 +30,8 @@ This is a simple console-based Tic-Tac-Toe game written in C++. The game offers 
 - **Enter 'y' or 'Y'** to play again after a round.
 - **Enter any other key** to quit after a round.
 
-## How to Compile and Run
-1. Open a terminal or command prompt.
-2. Compile the code using g++:
-   ```bash
-   g++ -o tic_tac_toe ticTacToe.cpp
-   ```
-3. Run the executable:
-   ```bash
-   ./tic_tac_toe   # For Linux/Mac
-   tic_tac_toe.exe  # For Windows
-   ```
-
 ## Dependencies
 - C++ compiler (g++, clang, or MSVC)
-
-## Future Improvements
-- Improve AI strategy.
-- Add a graphical user interface.
-- Implement networked multiplayer mode.
 
 ## Author
 **Khadiza Sultana**
